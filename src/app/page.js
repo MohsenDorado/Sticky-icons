@@ -1,7 +1,7 @@
 'use client';
 import styles from './page.module.scss'
-import GsapMagnetic from '../components/Gsap';
-import FramerMagnetic from '../components/Framer';
+import GsapMagnetic from '../components/gsap';
+import FramerMagnetic from '../components/framer';
 
 export default function Home() {
   return (
